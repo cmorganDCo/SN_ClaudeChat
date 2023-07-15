@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_headers">
+    <sys_rest_message_headers action="DELETE">
+        <name>accept</name>
+        <rest_message display_value="">44afc4a147c87110ecc5e624336d4362</rest_message>
+        <sys_class_name>sys_rest_message_headers</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-15 01:19:41</sys_created_on>
+        <sys_id>10af00a147c87110ecc5e624336d4311</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>accept</sys_name>
+        <sys_package display_value="ClaudeTest" source="x_664695_claudetes">625fc86147c87110ecc5e624336d43ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ClaudeTest">625fc86147c87110ecc5e624336d43ad</sys_scope>
+        <sys_update_name>sys_rest_message_headers_10af00a147c87110ecc5e624336d4311</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-15 01:19:41</sys_updated_on>
+        <value>application/json</value>
+    </sys_rest_message_headers>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ClaudeTest">625fc86147c87110ecc5e624336d43ad</application>
+        <file_path/>
+        <instance_id>692ab7fcdb82a5149df22f17d4961998</instance_id>
+        <instance_name>dev170596</instance_name>
+        <name>sys_rest_message_headers_10af00a147c87110ecc5e624336d4311</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_headers"><sys_rest_message_headers action="INSERT_OR_UPDATE"><name>accept</name><rest_message display_value="">44afc4a147c87110ecc5e624336d4362</rest_message><sys_class_name>sys_rest_message_headers</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-15 01:19:41</sys_created_on><sys_id>10af00a147c87110ecc5e624336d4311</sys_id><sys_mod_count>0</sys_mod_count><sys_name>accept</sys_name><sys_package display_value="ClaudeTest" source="x_664695_claudetes">625fc86147c87110ecc5e624336d43ad</sys_package><sys_policy/><sys_scope display_value="ClaudeTest">625fc86147c87110ecc5e624336d43ad</sys_scope><sys_update_name>sys_rest_message_headers_10af00a147c87110ecc5e624336d4311</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-15 01:19:41</sys_updated_on><value>application/json</value></sys_rest_message_headers></record_update>]]></payload>
+        <payload_hash>1451717416</payload_hash>
+        <record_name>accept</record_name>
+        <reverted_from/>
+        <source>2e5fc86147c87110ecc5e624336d43ae</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-15 01:19:41</sys_created_on>
+        <sys_id>f68014e147c87110ecc5e624336d43ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1895721d3130000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-15 01:19:41</sys_updated_on>
+        <type>HTTP Headers</type>
+        <update_guid>3e8014e103c871109da6799d5ea8d5ab</update_guid>
+        <update_guid_history>3e8014e103c871109da6799d5ea8d5ab:1451717416</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-15 01:20:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_rest_message_headers">sys_rest_message_headers</sys_db_object>
+        <sys_id>462ac497aa4c41d09f65bf63ecc36f84</sys_id>
+        <sys_metadata>10af00a147c87110ecc5e624336d4311</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>accept</sys_name>
+        <sys_package display_value="ClaudeTest" source="x_664695_claudetes">625fc86147c87110ecc5e624336d43ad</sys_package>
+        <sys_parent display_value="Anthropic">44afc4a147c87110ecc5e624336d4362</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ClaudeTest">625fc86147c87110ecc5e624336d43ad</sys_scope>
+        <sys_scope_delete display_value="">24eb00fd6d104086b0233cc183dc02c4</sys_scope_delete>
+        <sys_update_name>sys_rest_message_headers_10af00a147c87110ecc5e624336d4311</sys_update_name>
+        <sys_update_version display_value="sys_rest_message_headers_10af00a147c87110ecc5e624336d4311">f68014e147c87110ecc5e624336d43ac</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-15 01:20:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

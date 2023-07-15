@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-15 01:42:06</sys_created_on>
+        <sys_id>47a5142947c87110ecc5e624336d4317</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_664695_claudetes_claudeaskinfo.x_664695_claudetes.claudeaskinfo_user</sys_name>
+        <sys_package display_value="ClaudeTest" source="x_664695_claudetes">625fc86147c87110ecc5e624336d43ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ClaudeTest">625fc86147c87110ecc5e624336d43ad</sys_scope>
+        <sys_security_acl display_value="x_664695_claudetes_claudeaskinfo">c7a5142947c87110ecc5e624336d4314</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_47a5142947c87110ecc5e624336d4317</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-15 01:42:06</sys_updated_on>
+        <sys_user_role display_value="x_664695_claudetes.claudeaskinfo_user" name="x_664695_claudetes.claudeaskinfo_user">faa5502947c87110ecc5e624336d43cd</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
